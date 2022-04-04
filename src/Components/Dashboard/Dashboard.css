@@ -1,0 +1,12 @@
+.dashboard{
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    gap: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 100px;
+}
+
+.dashboard h2 {
+    color: #65C18C;
+}
