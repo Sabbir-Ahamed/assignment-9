@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "picture": "https://i.ibb.co/kgSYyth/pexels-ibraim-leonardo-2829792.jpg",
+    "name": "Britney Rodriquez",
+    "comment": "Amazing Laptop."
+  },
+  {
+    "id": "02",
+    "picture": "https://i.ibb.co/7ksMS8g/pexels-leonardo-cardozo-galves-1781983.jpg",
+    "name": "Delaney Perez",
+    "comment": "Awesome laptop and I am satisfied"
+  },
+  {
+    "id": "03",
+    "picture": "https://i.ibb.co/xgjzvVy/pexels-tomaz-barcellos-1987301.jpg",
+    "name": "Gross Colon",
+    "comment": "World best laptop"
+  },
+  {
+    "id": "04",
+    "picture": "https://i.ibb.co/L99ycsg/pexels-4117778.jpg",
+    "name": "Barber Medina",
+    "comment": "Awesome glossy display"
+  },
+  {
+    "id": "05",
+    "picture": "https://i.ibb.co/0smd5wN/pexels-neeraj-agnihotri-6039851.jpg",
+    "name": "Allen Schwartz",
+    "comment": "This laptop is better than apple product"
+  },
+  {
+    "id": "06",
+    "picture": "https://i.ibb.co/drpWxYf/pexels-ron-lach-8035299.jpg",
+    "name": "Nipon Saha",
+    "comment": "Unbeliveable! this laptop give me fast working experience."
+  }
+]
