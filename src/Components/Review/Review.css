@@ -12,3 +12,25 @@
     width: 150px;
     height: 150px;
 }
+
+.review div {
+    margin-left: 20px;
+}
+
+.review h2 {
+    color: #65C18C;
+    margin-bottom: 0;
+}
+
+.review p {
+    color: #222;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.review .icon {
+    width: 20px;
+    height: 20px;
+    color:gold;
+}

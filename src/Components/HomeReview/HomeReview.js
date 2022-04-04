@@ -1,10 +1,9 @@
+import { StarIcon } from '@heroicons/react/solid';
 import React from 'react';
-import "./Review.css";
-import { StarIcon } from "@heroicons/react/solid";
 
-const Review = (props) => {
-    const { name, comment, picture } = props.review;
-    
+const HomeReview = (props) => {
+    const { name, comment, picture } = props.sliceReview;
+
     return (
       <div>
         <div className="review">
@@ -19,9 +18,8 @@ const Review = (props) => {
             <StarIcon className="icon" />
           </div>
         </div>
-
       </div>
     );
 };
 
-export default Review;
+export default HomeReview;
