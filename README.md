@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `Laptope House`
 ***
+### `Laptope House`
 ## Short description of the project:
 
 * I am added routes header menu

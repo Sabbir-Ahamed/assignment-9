@@ -1,20 +1,13 @@
-import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import useReviews from '../../hooks/useReview';
 import HomeReview from '../HomeReview/HomeReview';
 import "./HomeReviews.css";
 
 const Review = () => {
 
-    const [HomeReviews, setHomeReviews] = useState([]);
+  const [reviews] = useReviews();
 
-    useEffect(() => {
-      fetch("fake-review.json")
-        .then((res) => res.json())
-        .then((data) => setHomeReviews(data));
-    }, []);
-
-    const sliceReviwes = HomeReviews.slice(0,3);
-    console.log(sliceReviwes);
+    const sliceReviwes = reviews.slice(0,3);
 
   return (
     <div>
