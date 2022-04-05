@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+***
+# `Live Link`
+
+Open [https://delicate-kheer-fde11e.netlify.app/](https://delicate-kheer-fde11e.netlify.app/) to view it in your browser.
+
 
 ***
 ### `Laptope House`
