@@ -8,12 +8,12 @@ In the project directory, you can run:
 
 ### `Laptope House`
 ***
-Short description of the project:
+## Short description of the project:
 
-# I am added routes header menu
-## Added reviews
-### filter 3 revies for home section
-#### Added Chart in dashboard
+* I am added routes header menu
+* Added reviews
+* filter 3 revies for home section
+* Added Chart in dashboard
 
 
 
